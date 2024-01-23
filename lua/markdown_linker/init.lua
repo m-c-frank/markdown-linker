@@ -1,7 +1,7 @@
 local M = {}
 
 M.config = {
-  base_dir = "." -- Default base directory
+  base_dir = "/home/mcfrank/notes" -- Default base directory
 }
 
 function M.setup(opts)
